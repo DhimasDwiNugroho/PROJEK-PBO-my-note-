@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="f_DetailKategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_DetailNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_Kategori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListItemNote.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
